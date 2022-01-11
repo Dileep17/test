@@ -1,1 +1,1 @@
-let obj = "test"
+export const obj = "test"
